@@ -1,6 +1,6 @@
 package us100;
 
-public class TestCase002 {
+public class TestCase_002 {
 
     // omer
     // ali
